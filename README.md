@@ -17,11 +17,13 @@ https://storage.googleapis.com/mediapipe-tasks/object_detector/android_figurine.
 ## Known Issues
 
 - `pip` killed when installing `tensorflow`
-  ```sh
+  ``` sh
    pip3 install tensorflow==2.2.0
   ```
+  
       - OR -
-  ```sh
+  
+  ``` sh
    pip3 install tensorflow-cpu
    pip3 install mediapipe-model-maker --no-dependencies
   ```
