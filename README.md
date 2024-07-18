@@ -21,10 +21,14 @@ https://storage.googleapis.com/mediapipe-tasks/object_detector/android_figurine.
    pip3 install tensorflow==2.2.0
   ```
   
-     ___ OR ___
+     ** OR **
   
   ``` sh
    pip3 install tensorflow-cpu
    pip3 install mediapipe-model-maker --no-dependencies
   ```
 
+- `opencv` install on Ubuntu
+  ``` sh
+  sudo apt-get install python3-opencv
+  ```
