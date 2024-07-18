@@ -21,7 +21,7 @@ https://storage.googleapis.com/mediapipe-tasks/object_detector/android_figurine.
    pip3 install tensorflow==2.2.0
   ```
   
-     ** OR **
+     **OR**
   
   ``` sh
    pip3 install tensorflow-cpu
