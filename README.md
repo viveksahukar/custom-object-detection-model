@@ -1,16 +1,5 @@
 # custom-object-detection-model
 
-## Install
-  
-  ```sh
-git clone https://github.com/pyinstaller/pyinstaller.git
-cd pyinstaller/bootloader
-python ./waf all
-pip install ..
-
-
-python3 -c "import platform; print(platform.processor())"
-  ```
 
 ## Setup
 
